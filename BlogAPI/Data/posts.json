@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Mi primer post en el blog",
+    "Contenido": "Bienvenidos a mi blog personal. Aqu\u00ED compartir\u00E9 mis experiencias en programaci\u00F3n y tecnolog\u00EDa.",
+    "Autor": "Admin",
+    "FechaCreacion": "2025-12-09T20:39:57.0988633-03:00",
+    "Imagen": "https://via.placeholder.com/800x400?text=Primer\u002BPost",
+    "Comentarios": [
+      {
+        "Id": 1,
+        "Autor": "Juan",
+        "Contenido": "Excelente inicio!",
+        "Fecha": "2025-12-10T20:39:57.0990927-03:00"
+      },
+      {
+        "Id": 2,
+        "Autor": "Maria",
+        "Contenido": "Espero m\u00E1s contenido pronto",
+        "Fecha": "2025-12-11T20:39:57.0991286-03:00"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Titulo": "Aprendiendo ASP.NET Core",
+    "Contenido": "ASP.NET Core es un framework potente para crear APIs modernas y escalables.",
+    "Autor": "Admin",
+    "FechaCreacion": "2025-12-11T20:39:57.0991632-03:00",
+    "Imagen": "https://via.placeholder.com/800x400?text=ASP.NET\u002BCore",
+    "Comentarios": []
+  }
+]
